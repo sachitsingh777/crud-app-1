@@ -1,0 +1,85 @@
+{
+  "products": [
+   {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
+      "title": "Polo Shirt",
+      "price": "599",
+      "brand": "HRX",
+      "discount": "10.30%",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989836087-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-1.jpg",
+      "title": "Sports T-shirt",
+      "price": "999",
+      "brand": "Adidas",
+      "discount": "20%",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/c18ee8eb-06f6-4d10-8f4a-680ac10fccf21527055151093-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-1.jpg",
+      "title": "Sport Tshirt",
+      "price": "789",
+      "brand": "Adidas",
+      "discount": "10%",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14350098/2021/6/18/8e12d936-e770-48d3-a285-b72c4c1c74391623996957697-Mast--Harbour-Men-Tshirts-3781623996957278-4.jpg",
+      "title": "white Tshirt",
+      "price": "666",
+      "brand": "Adidas ",
+      "discount": "25%",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/76a1fe8c-86c9-4ff1-bd68-2d333cfc03831544132056588-1.jpg",
+      "title": "Navy Tshirt",
+      "price": "1299",
+      "brand": "Adidas",
+      "discount": "40%",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/3ec609b9-d503-4018-9b44-8973a43817391624115526512-1.jpg",
+      "title": "TRIPR",
+      "price": "345",
+      "brand": "tripr",
+      "discount": "33%",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/67ad0999-a2f1-4251-a370-207fc1bdad4d1628241598838-Anouk-Men-Red-Striped-Kurta-6691628241598334-3.jpg",
+      "title": "blive tshirt",
+      "price": "533",
+      "brand": "tripr",
+      "discount": "25%",
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/03c95244-17fa-4509-a49a-0c3eb25b40171631785441918CLYMBMenTan1.jpg",
+      "title": "Ftx",
+      "price": "767",
+      "brand": "tripr",
+      "discount": "23%",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/73fc1074-0a84-4845-b452-9a6a080be4cb1635336510062-Nike-Precision-5-Basketball-Shoes-5381635336509646-1.jpg",
+      "title": "blive",
+      "price": "456",
+      "brand": "tripr",
+      "discount": "45%",
+      "gender": "male",
+      "id": 10
+    }
+  ]
+}
